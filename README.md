@@ -13,7 +13,7 @@ This project aims to address the following key questions:
 ## Tools & Technologies Used:
 - **SQL Server**
 - **Power BI**
-- **Python (Jupyter Notebook)**
+- **Python**
 - **Libraries**: Pandas, Scikit-learn, Matplotlib
   
 ## Project Steps:
